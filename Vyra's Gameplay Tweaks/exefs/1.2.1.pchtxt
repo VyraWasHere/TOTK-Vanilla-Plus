@@ -4,7 +4,6 @@
 @flag offset_shift 0x100
 
 @enabled
-0381c434 1e000000
-0381c43c f0d20000
-0381c444 ffffff0f
+0381c43c f0d20000 // Mineru Zonai devices
+0381c444 ffffff0f // Mineru weapon cap
 @stop

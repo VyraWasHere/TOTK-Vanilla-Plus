@@ -1,0 +1,9 @@
+@nsobid-6F32C68DD3BC7D77AA714B80E92A096A737CDA77
+
+@flag print_values
+@flag offset_shift 0x100
+
+@enabled
+0380d2c4 f0d20000 // Mineru Zonai devices
+0380d2cc ffffff0f // Mineru weapon cap
+@stop
